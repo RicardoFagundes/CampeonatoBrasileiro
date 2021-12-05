@@ -34,10 +34,10 @@ class DataUtil:
         date = datetime.strptime(str_date, '%d/%m/%Y').date()
         return date.month
         
-teste = DataUtil("25/11/2021")
+#teste = DataUtil("25/11/2021")
 
-print(teste.converteString())
-print(teste.buscaAno())
-print(teste.buscaDia())
-print(teste.buscaMes())
+#print(teste.converteString())
+#print(teste.buscaAno())
+#print(teste.buscaDia())
+#print(teste.buscaMes())
 

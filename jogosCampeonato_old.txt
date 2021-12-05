@@ -1,3 +1,4 @@
+rodada;data_jogo;horario;dia_jogo;time_mandante;time_visitante;time_vencedor;campo;placar_mandante;placar_visitante;estado_mandante;estado_visitante;estado_vencedor
 1;29/03/2003;16h00;Sábado;Athlético-PR;Grêmio;Athlético-PR;Arena da Baixada;2;0;PR;RS;PR
 1;29/03/2003;16h00;Sábado;Guarani;Vasco;Guarani;Brinco de Ouro;4;2;SP;RJ;SP
 1;30/03/2003;16h00;Domingo;Fortaleza;Bahia;-;Castelão;0;0;CE;BA;-

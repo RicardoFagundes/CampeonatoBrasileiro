@@ -39,5 +39,5 @@ class CampeonatoBrasileiro:
         self.estado_mandante = ""
         self.estado_visitante = ""
         self.estado_vencedor = ""
-        self.ano_campeonato = ""
+        self.ano_campeonato = 0
         
