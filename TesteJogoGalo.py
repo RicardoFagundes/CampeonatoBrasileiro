@@ -19,7 +19,7 @@ from  DataUtil import *
 
 
 
-def leArquivo(nomeDiretorio,  time):
+def leArquivo(nomeDiretorio):
         listaJogos = []           
         arquivo = open(nomeDiretorio, "r")
         tamanho = arquivo.readlines()
@@ -112,6 +112,7 @@ dicAnosAgrupado
 #plt.figure(figsize = (13,6))
 plt.subplot(1, 2, 1)
 plt.bar(dicAnosAgrupado.keys(), [len(x) for x in dicAnosAgrupado.values()])
+plt.savefig('testegalo.png')
 plt.xlabel("Ano",  color = "royalblue")
 plt.show()
 
